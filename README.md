@@ -1,6 +1,6 @@
 # NewsWebsiteSpider
 This is an application to crawl the online news website using scrapy, e.g. www.theguardian.com/au
-#######################################################
+#######################################################\n
 Program description 
 Set mangoDB in NewsWebsiteSpider\newsSpider\newsSpider\spiders\db_setting.py
 Set spider request parameters in NewsWebsiteSpider\newsSpider\newsSpider\spiders\config.ini
